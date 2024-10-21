@@ -1,0 +1,21 @@
+.bg-categoria{
+	background-color:#7D99F7;
+	
+}
+
+.bg-cliente{
+	background-color:#D1C959;
+}
+
+.bg-venta{
+	background-color:#E1534E ;
+}
+
+.bg-articulo{
+	background-color:#7BB78E;
+}
+
+.c-span{
+	opacity:0.8;
+	filter:alpha(opacity=50);
+}
